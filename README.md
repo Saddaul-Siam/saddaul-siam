@@ -8,7 +8,7 @@ Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on ✅ JavaScript 
 - 🌱 I’m currently learning web development 
-- 👯 I’m looking to collaborate on Github 
+
 
 
 
